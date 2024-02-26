@@ -1,18 +1,3 @@
-# Sommaire
-
-1. [Présentation du projet](#1-présentation-du-projet)
-2. [Technologies utilisées](#2-technologies-utilisées)
-3. [Mon rôle dans le projet](#3-mon-rôle-dans-le-projet)
-   - [Authentification](#authentification)
-   - [Système de formulaires](#système-de-formulaires)
-   - [Système de tableaux](#système-de-tableaux)
-   - [Chatbot](#chatbot)
-   - [Autres tâches](#autres-tâches)
-4. [Conclusion](#4-conclusion)
-5. [Photos du site](#5-photos-du-site)
-
----
-
 ## 1. Présentation du projet
 
 Gradhire était notre projet d'étude sur l'entièreté du premier semestre de notre deuxième année de BUT Informatique.
