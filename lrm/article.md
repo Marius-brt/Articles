@@ -1,4 +1,3 @@
-# Introduction
 Large Relational Model (LRM) est un logiciel de modélisation de bases de données relationnelles.
 Il permet de créer des modèles de données, de les modifier, de les visualiser et de les exporter.
 Il est utilisé par des étudiants en informatique à l'IUT de Lens pour apprendre la modélisation de bases de données relationnelles grâce à des schémas E/A.

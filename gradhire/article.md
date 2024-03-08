@@ -147,7 +147,7 @@ L'utilisation de branches, de pull request, d'issues et l'utilisation de kanban 
 
 Nous avions pour ce projet un client factice. Pour ce projet, nous avions 4 sprints (d'environ 1 mois chacun), auquel il fallait faire une présentation orale devant le client et d'autres profs. C'était pour moi un très bon exercice d'apprendre à présenter un projet possédant énormément de fonctionnalités dans un délai court à un client qui peut ne rien connaître en informatique.
 
-C'était pour moi une très bonne expérience. En plus, l'entente était très bonne avec l'équipe. Je ne pense pas avoir trop appris en programmation mise à part sur le réfactoring.
+C'était pour moi une très bonne expérience. En plus, l'entente était très bonne avec l'équipe. Je ne pense pas avoir trop appris en programmation mise à part sur le réfactoring. J'ai surtout appris sur la gestion de projet, le travail en équipe et la communication avec un client.
 
 ## 5. Photos du site
 
